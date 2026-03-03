@@ -7,7 +7,7 @@
 
 -----------------------------------------------
 ### Socials: 
-<a href="https://instagram.com/vinsanity.999"><img src="https://img.shields.io/badge/a6.nielvinn-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  
+<a href="https://instagram.com/vinsanity.999"><img src="https://img.shields.io/badge/vinsanity.999-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  
 <a href="https://www.linkedin.com/in/nielvin-amancio-961225256/"><img src="https://img.shields.io/badge/Nielvin Amancio-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.facebook.com/Amanciolicious/"><img src="https://img.shields.io/badge/Nielvin Amancio-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <br>
