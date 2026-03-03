@@ -17,9 +17,9 @@
 
 ### Current Status Quo:
 
-- Beginner Flutter Developer
-- I’m looking for connections in <strong>Mobile Development</strong> Industry.
-- Feel free to discuss with me about <strong>Flutter Basics</strong>.
+- Beginner Flutter Developer continuously improving my mobile development skills.
+- I’m looking to connect with professionals in the <strong>Mobile Development</strong> industry.
+- Feel free to discuss with me about <strong>Flutter Basics</strong> and mobile app development.
 
 -----------------------------------------------
 
